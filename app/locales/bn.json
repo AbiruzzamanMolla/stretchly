@@ -26,9 +26,9 @@
     "syncPreferences": "পছন্দসমূহ সিঙ্ক করুন"
   },
   "break": {
-    "postpone": "Postpone this break",
-    "skip": "Skip this break",
-    "title": "Time to take a break!"
+    "postpone": "এই বিরতি স্থগিত করুন",
+    "skip": "এই বিরতি এড়িয়ে যান",
+    "title": "বিরতি নেওয়ার সময় হয়েছে!"
   },
   "preferences": {
     "title": "Stretchly Preferences",
